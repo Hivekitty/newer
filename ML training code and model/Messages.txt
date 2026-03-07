@@ -4,3 +4,7 @@ we can directly import from kaggel and use it.
 Also we should also include the dataset link in ipynb file for reference.
 thanks
 Harshit Sharma
+
+
+Reply from Sohrab:
+Bro, just mind your own business.
